@@ -58,5 +58,5 @@ end
 
 @testset "Code quality (Aqua.jl)" begin
     Aqua.test_all(ExtractLinks, deps_compat=false)
-    # Aqua.test_deps_compat(ExtractLinks, check_extras=false)
+    Aqua.test_deps_compat(ExtractLinks, check_extras=false)
 end
