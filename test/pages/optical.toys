@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="generator" content="Hugo 0.85.0" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Optical Toys</title>
+  <meta name="description" content="Optical Toys by Toms Toys" />
+  <link rel="alternate" type="application/rss+xml" href="https://optical.toys/index.xml" title="Optical Toys" />
+  <script>
+    window.ramp = window.ramp || {};
+    window.ramp.que = window.ramp.que || [];
+  </script>
+  <script async src="//cdn.intergient.com/1024872/74203/ramp_config.js"></script>
+  <script>
+      window._pwGA4PageviewId = ''.concat(Date.now());
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function () { 
+        dataLayer.push(arguments);
+      };
+      gtag('js', new Date());
+      gtag('config', 'G-618N1DQMG4', { 'send_page_view': false });
+      gtag(
+        'event',
+        'ramp_js',
+        {
+          'send_to': 'G-618N1DQMG4',
+          'pageview_id': window._pwGA4PageviewId
+        }
+      );
+  </script>
+
+  <link rel="stylesheet" href="/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+</head>
+
+<body class="home">
+
+  <div class="toy-wrapper">
+    <h1>Optical Toys <small>OPTICAL ILLUSIONS & BRAIN BENDING TOYS - <a href="/index.xml">RSS</a></small></h1>
+
+    <div class="toys">
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/are-they-moving-rainbows/">
+          
+            <span class="banner">
+              <span class="animate"> NEW</span>
+            </span>
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/rainbow-illusion.png?width=600&amp;format=auto" alt="Sliding Rainbows" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Sliding Rainbows</h2>
+          <p>Do these rainbows move across the screen, or are they sitting still?</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/kaleidoscope/">
+          
+            <span class="banner">
+              <span class="animate"> POPULAR!</span>
+            </span>
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/kaleidoscope.png" alt="Kaleidoscope" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Kaleidoscope</h2>
+          <p>Not really an illusion, but it&#39;s an overload of optical, thats for sure. Drag and Drop!</p>
+        </a>
+        
+      
+
+        
+          <div class="ad home-ad">
+            
+            <div data-pw-desk="sky_atf" id="pwDeskSkyAtf"></div>
+            <script type="text/javascript">
+              window.ramp.que.push(function () {
+                  window.ramp.addTag("pwDeskSkyAtf");
+              })
+            </script>
+
+            
+            <div data-pw-mobi="leaderboard_btf" id="pwMobiLbBtf1"></div>
+            <script type="text/javascript">
+              window.ramp.que.push(function () {
+                  window.ramp.addTag("pwMobiLbBtf1");
+              })
+            </script>
+          </div>
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/waterfall-effect/">
+          
+            <span class="banner">
+              <span class="animate"> NEW!</span>
+            </span>
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/waterfall-effect.png?format=auto" alt="Waterfall Effect" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Waterfall Effect</h2>
+          <p>Watch this artificial waterfall, and then watch the world warp around you.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/disappearing-bicyclist/">
+          
+            <span class="banner">
+              <span class="animate"> NEW!</span>
+            </span>
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/bicyclist.png" alt="Disappearing Bicyclist" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Disappearing Bicyclist</h2>
+          <p>One of Sam Loyd&#39;s vanishing puzzles, and a true brain bender. It&#39;s an oldie!</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/shifty-peaches/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/shifty-balls.png" alt="Shifty Peaches" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Shifty Peaches</h2>
+          <p>Try to keep these balls in the center of your vision, impossible!</p>
+        </a>
+        
+      
+
+        
+
+        
+          <div class="ad home-ad">
+            
+            <div data-pw-desk="sky_btf" id="pwDeskSkyBtf1"></div>
+            <script type="text/javascript">
+              window.ramp.que.push(function () {
+                  window.ramp.addTag("pwDeskSkyBtf1");
+              })
+            </script>
+
+            
+            <div data-pw-mobi="leaderboard_btf" id="pwMobiLbBtf2"></div>
+            <script type="text/javascript">
+              window.ramp.que.push(function () {
+                  window.ramp.addTag("pwMobiLbBtf2");
+              })
+            </script>
+          </div>
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/motion-aftereffect/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/aftereffect.png" alt="Motion After-Effects" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Motion After-Effects</h2>
+          <p>Stare at this for a while and you&#39;ll be able to transfer the effect off your screen.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/bamboozled/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/bamboozled.png" alt="Bamboozled" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Bamboozled</h2>
+          <p>Honestly, I truly imagine this is exactly how panda&#39;s experience the world.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/spinning-duck/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/duck.png" alt="Spinning Duck" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Spinning Duck</h2>
+          <p>A duck spinning in more than one direction, true brainiacs can control it.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+        <div class="ad home-ad">
+          
+          <div data-pw-desk="sky_btf" id="pwDeskSkyBtf2"></div>
+          <script type="text/javascript">
+            window.ramp.que.push(function () {
+                window.ramp.addTag("pwDeskSkyBtf2");
+            })
+          </script>
+          
+          
+          <div data-pw-mobi="leaderboard_btf" id="pwMobiLbBtf3"></div>
+          <script type="text/javascript">
+            window.ramp.que.push(function () {
+                window.ramp.addTag("pwMobiLbBtf3");
+            })
+          </script>
+        </div>
+      
+
+      
+
+
+        <a class="toy" href="/dots-that-will-quit/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/quit-dots.png" alt="Dots that will quit" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Dots that will quit</h2>
+          <p>Focus on one and the rest will vanish, you can&#39;t win this one.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/dots-that-wont-quit/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/dots.png" alt="Dots that won&#39;t quit" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Dots that won&#39;t quit</h2>
+          <p>Pretty much as vivid as it gets. A complete optical betrayal of the senses.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/healing-grid/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/healing-grid.png?format=auto" alt="Healing Grid Illusion" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Healing Grid Illusion</h2>
+          <p>Once again your eyes and brain deceive you with this repairing grid.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/illusory-motion-beans/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/beans.png" alt="Won&#39;t stop movin beans" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Won&#39;t stop movin beans</h2>
+          <p>You&#39;re dealing with absolute classics here, your brain will bust at these sneaky beans.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+        <div class="ad home-ad">
+          
+          <div data-pw-desk="sky_btf" id="pwDeskSkyBtf3"></div>
+          <script type="text/javascript">
+            window.ramp.que.push(function () {
+                window.ramp.addTag("pwDeskSkyBtf3");
+            })
+          </script>
+          
+          
+          <div data-pw-mobi="leaderboard_btf" id="pwMobiLbBtf4"></div>
+          <script type="text/javascript">
+            window.ramp.que.push(function () {
+                window.ramp.addTag("pwMobiLbBtf4");
+            })
+          </script>
+        </div>
+      
+
+
+        <a class="toy" href="/gradient-motion/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/gradient-motion.png" alt="Gradient Motion" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Gradient Motion</h2>
+          <p>Move your head closer and further from the screen and you&#39;ll see the glow!</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/lilac-chaser/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/lilac-chaser.png" alt="Lilac Chaser" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Lilac Chaser</h2>
+          <p>Multiple effects all bundled in one with this trippy customer.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/ouchi-illusion/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/ouchi.png" alt="Ouchi Illusion" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Ouchi Illusion</h2>
+          <p>A floating disk. You can comprehend it, but you can&#39;t stop it.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/straight-line-squares/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/straight-line-squares.png" alt="Straight Line Squares" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Straight Line Squares</h2>
+          <p>A real brain bender, yes the lines are straight. You&#39;ll need something straight to test.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/troxler-fade/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/fade.png" alt="Troxler Fade" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Troxler Fade</h2>
+          <p>Watch the tomato, and see the rest of the world fade away... damn.</p>
+        </a>
+        
+      
+
+        
+
+        
+
+      
+
+      
+
+
+        <a class="toy" href="/no-spirals-spirals/">
+          
+          <div class="image">
+            
+            <img src="https://assets.codepen.io/277/spirals.png" alt="Spirals but not" loading="lazy" />
+            <div class="hover">
+              <svg class="" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 6H16V8H8V6ZM4 10V8H8V10H4ZM2 12V10H4V12H2ZM2 14V12H0V14H2ZM4 16H2V14H4V16ZM8 18H4V16H8V18ZM16 18V20H8V18H16ZM20 16V18H16V16H20ZM22 14V16H20V14H22ZM22 12H24V14H22V12ZM20 10H22V12H20V10ZM20 10V8H16V10H20ZM10 11H14V15H10V11Z" fill="currentColor"></path></svg>
+            </div>
+            
+          </div>
+          <h2>Spirals but not</h2>
+          <p>They look like they&#39;re connected... but look closer?</p>
+        </a>
+        
+      
+    </div>
+    <footer class="footer"><a href="https://toms.toys">toms.toys</a> <span class="nofont">©</span> <a href="/privacy">privacy</a> <span class="nofont">⍟</span> <a href="/terms">terms</a></footer>
+  </div>
+
+  <script async src="//cdn.intergient.com/ramp_core.js"></script>
+  <script>
+    function transformScroll(event) {
+      if (!event.deltaY) {
+        return;
+      }
+
+      event.currentTarget.scrollLeft += event.deltaY + event.deltaX;
+      
+    }
+
+    var element = document.scrollingElement || document.documentElement;
+    element.addEventListener('wheel', transformScroll);
+  </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5N7X2KYKB2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5N7X2KYKB2');
+</script></body>
+
+</html>
