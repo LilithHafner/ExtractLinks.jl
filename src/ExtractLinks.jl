@@ -1,7 +1,7 @@
 module ExtractLinks
 
 using AbstractTrees: PreOrderDFS
-using Gumbo: HTMLElement, tag, parsehtml
+using Gumbo: HTMLElement, tag, parsehtml # Using Gumbo instead of XML.jl for better error recovery on broken HTML.
 using URIs: resolvereference
 
 export extract_links
