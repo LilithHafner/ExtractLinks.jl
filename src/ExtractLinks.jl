@@ -3,6 +3,7 @@ module ExtractLinks
 using AbstractTrees: PreOrderDFS
 using Gumbo: HTMLElement, tag, parsehtml # Using Gumbo instead of XML.jl for better error recovery on broken HTML.
 using URIs: resolvereference
+using HTTP: get
 
 export extract_links
 
@@ -23,11 +24,17 @@ const LOOSE_REGEX = r"^(/|\w+://|\.)[-\w.\/?=&%+;:,#~\[\]@!$'()*]+$"
 const STRICT_REGEX = r"\w+:\/\/[-\w.\/?=&%+;:,#]*"
 
 """
-    extract_links(html::AbstractString; root::AbstractString)
+    extract_links(url::AbstractString; body::AbstractString=String(HTML.get(url).body))
 
-Extract a list of links from an HTML document `html` with relative urls resolved assuming
-the page is hosted at `root`. `root` must be an absolute URL starting with http:// or
-https://. The links are returned as a vector of unique strings in arbitrary order.
+Extract a list of links on webpage hosted at `url`.
+
+Automatically resolves relative links relative to `url`.
+
+The `body` of the page will be automatically downloaded if not provided.
+
+`url` must be an absolute URL starting with http:// or https://.
+
+The links are returned as a vector of unique strings in arbitrary order.
 
 Makes a best effort to extract links from malformed HTML and should not throw due to
 malformed HTML.
@@ -35,13 +42,13 @@ malformed HTML.
 Due to the finniky nature of the web, this can only make a best effort, even if the HTML
 is well-formed. The exact huristics used are subject to change in a non-breaking release.
 """
-function extract_links(html::AbstractString; root::AbstractString)
+function extract_links(url::AbstractString; body::AbstractString=String(get(url).body))
 
-    startswith(root, r"https?://") || throw(ArgumentError("root must be an absolute URL starting with http:// or https://"))
+    startswith(url, r"https?://") || throw(ArgumentError("url must be an absolute URL starting with http:// or https://"))
     # resolvereference will sometimes silently misbehave if not.
 
     links = String[]
-    for node in PreOrderDFS(parsehtml(html).root)
+    for node in PreOrderDFS(parsehtml(body).root)
         if node isa HTMLElement
             t = String(tag(node))
             for (attr, val) in node.attributes
@@ -49,12 +56,12 @@ function extract_links(html::AbstractString; root::AbstractString)
                     if startswith(val, '#')
                         val = '.'*val
                     end
-                    push!(links, string(resolvereference(root, val)))
+                    push!(links, string(resolvereference(url, val)))
                 end
             end
         end
     end
-    for m in eachmatch(ExtractLinks.STRICT_REGEX, html)
+    for m in eachmatch(ExtractLinks.STRICT_REGEX, body)
         push!(links, m.match)
     end
     unique!(links)
