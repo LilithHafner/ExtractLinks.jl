@@ -4,6 +4,7 @@ using AbstractTrees: PreOrderDFS
 using Gumbo: HTMLElement, tag, parsehtml # Using Gumbo instead of XML.jl for better error recovery on broken HTML.
 using URIs: resolvereference
 using HTTP: get
+using PrecompileTools
 
 export extract_links
 
@@ -66,5 +67,9 @@ function extract_links(url::AbstractString; body::AbstractString=String(get(url)
     end
     unique!(links)
 end
+
+# Precompile functionality of this package but not `HTTP.get`.
+@compile_workload extract_links("https://www.julialang.org/",
+    body=read(joinpath(dirname(@__DIR__), "test", "pages", "www.julialang.org"), String))
 
 end
