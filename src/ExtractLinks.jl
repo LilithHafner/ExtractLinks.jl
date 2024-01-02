@@ -1,6 +1,6 @@
 module ExtractLinks
 
-using AbstractTrees: StatelessBFS
+using AbstractTrees: PreOrderDFS
 using Gumbo: HTMLElement, tag, parsehtml
 using URIs: resolvereference
 
@@ -28,7 +28,7 @@ function extract_links(body::AbstractString, root::AbstractString)
     # resolvereference will silently misbehave if not.
 
     links = String[]
-    for node in StatelessBFS(parsehtml(body).root)
+    for node in PreOrderDFS(parsehtml(body).root)
         if node isa HTMLElement
             t = String(tag(node))
             for (attr, val) in node.attributes
