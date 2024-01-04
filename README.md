@@ -28,3 +28,4 @@ Features
 - Handles malformed web-pages gracefully
 - Low compile and precompile times
 - Option to avoid web query if you provide the body of the page as a keyword argument
+- Filters out duplicates
