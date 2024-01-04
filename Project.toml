@@ -1,7 +1,7 @@
 name = "ExtractLinks"
 uuid = "8f7a8886-8f8a-428e-b78f-4cb978acfc7c"
 authors = ["Lilith Orion Hafner <lilithhafner@gmail.com> and contributors"]
-version = "0.0.0"
+version = "1.0.0"
 
 [deps]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
